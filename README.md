@@ -6,3 +6,25 @@ Watch this for tutorial https://www.youtube.com/watch?v=SqTdHCTWqks
 
 ---
 
+# this is the continuation of day 27 - 30 
+
+---
+
+## Day 27-28: Design to BladeAdd commentMore actions
+- All about Designing and creating components 
+
+
+---
+
+## Day 29: Job, Tags, TDD
+-
+
+---
+
+## Day 30: The everything
+
+-
+
+---
+
+ZZZzzZZZzz
