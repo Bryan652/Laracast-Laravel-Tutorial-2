@@ -17,13 +17,30 @@ Watch this for tutorial https://www.youtube.com/watch?v=SqTdHCTWqks
 ---
 
 ## Day 29: Job, Tags, TDD
--
+- Creation of table 
+- Connection or Relationship between the tables 
+
+- Creating test file
+- You can configure the phpunit.xml
+``` bash
+php artisan make:test 
+
+which type of test would you like?
+Feature - 
+Unit - 
+``` 
+
+- Follow this when testing 
+``` bash
+Arrange act assert 
+``` 
+
+- You can use a @props to use loops in a component
 
 ---
 
 ## Day 30: The everything
-
--
+- Adding authentication to the site, just the same as the last time 
 
 ---
 

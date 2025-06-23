@@ -1,5 +1,5 @@
 import './bootstrap';
 
-import.meta.grob([
+import.meta.glob([
     '../images/**'
 ]);
